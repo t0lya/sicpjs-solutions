@@ -1,0 +1,13 @@
+{
+  "name": "cs-15122",
+  "private": true,
+  "engines": {
+    "node": ">=14.9.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.1"
+  },
+  "dependencies": {
+    "mathjs": "^7.2.0"
+  }
+}
