@@ -15,3 +15,10 @@ function last(list) {
 }
 
 console.log(last(pair(3434, pair(652, pair(8345, pair(3267, pair(6, null)))))))
+
+module.exports = {
+  pair,
+  head,
+  tail,
+  last
+}
